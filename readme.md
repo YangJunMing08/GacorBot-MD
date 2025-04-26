@@ -173,7 +173,8 @@ $ node .
 WhatsApp Bot is still in the development stage, so there are a few bugs
 
 Editing Number Owner & session name in [`config.js`]
-Get Apikey LolHuman on [`LolHuman`](https://api.lolhuman.xyz) and [`BetaBotz`](https://api.betabotz.eu.org) harga murah kok sans 
+
+Get Apikey from [`LolHuman`](https://api.lolhuman.xyz) and [`BetaBotz`](https://api.betabotz.eu.org) harga murah kok sans 
 
 
 ## Thanks To
